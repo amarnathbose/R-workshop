@@ -1,4 +1,4 @@
-nstall.packages("ROCR")
+install.packages("ROCR")
 install.packages("Metrics")
 install.packages("gplots")
 install.packages("DAAG")
